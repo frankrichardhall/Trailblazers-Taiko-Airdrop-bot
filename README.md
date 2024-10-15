@@ -5,6 +5,7 @@ A loyalty program for everyone to learn and get rewarded (Airdrop) just for expl
 
 - Node.js
 - Private keys for the wallets you intend to use (stored in `privateKeys.json`).
+- Token TAIKO (SC: 0xa9d23408b9ba935c230493c40c73824df71a0975)
 
 ## Installation
 
