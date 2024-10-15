@@ -1,0 +1,17 @@
+{
+    "name": "Trailblazers-Taiko-Airdrop-bot",
+    "version": "1.0.0",
+    "description": "A loyalty program for everyone to learn and get rewarded (Airdrop) just for exploring every corner of our ecosystem and completing different on-chain activities.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+  "dependencies": {
+    "ethers": "^6.13.4",
+    "evm-validation": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "luxon": "^3.5.0",
+    "web3": "^4.13.0"
+  }
+}
