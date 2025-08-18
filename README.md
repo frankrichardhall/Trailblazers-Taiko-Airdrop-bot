@@ -47,3 +47,4 @@ A loyalty program for everyone to learn and get rewarded (Airdrop) just for expl
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+ 
